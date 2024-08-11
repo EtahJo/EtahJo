@@ -30,9 +30,13 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </tr>
 <tr>
 <td>
+
+<button type='button'>
 <a href='https://accountability-tribe.vercel.app/'>
-<button>HomePage Unauthenticated</button>
+HomePage Unauthenticated
 </a>
+</button>
+
 </td>
 <td>
 <a href="https://accountability-tribe.vercel.app/">
