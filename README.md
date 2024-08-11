@@ -8,7 +8,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 
 <p align='left'>
 <a href="https://accountability-tribe.vercel.app/">
-<img src="./images/home-logged-out.png"/>
+Home
 </a>
 </p>
 
