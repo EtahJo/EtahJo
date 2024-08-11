@@ -22,10 +22,12 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <tr>
 <td>Accountability Tribe</td>
 <td>
+<table>
 <tr>
 <th>Page Name</th>
 <th>Page Image</th>
 </tr>
+</table>
 </td>
 </tr>
 
