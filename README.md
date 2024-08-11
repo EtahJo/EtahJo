@@ -24,8 +24,24 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <td>
 <table>
 <tr>
-<th>Page Name</th>
-<th>Page Image</th>
+<th>Name</th>
+<th>Image</th>
+</tr>
+<tr>
+<td>HomePage Unauthenticated</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>HomePage Authenticated</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
+</a>
+</td>
 </tr>
 </table>
 </td>
@@ -34,12 +50,6 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </table>
 
 <p align='center'>
-<a href="https://accountability-tribe.vercel.app/">
-<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
-</a>
-<a href="https://accountability-tribe.vercel.app/">
-<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
-</a>
 
 <a href="https://accountability-tribe.vercel.app/create-session">
 <img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
