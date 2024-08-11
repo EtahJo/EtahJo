@@ -43,26 +43,45 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </a>
 </td>
 </tr>
+<tr>
+<td>Create Session</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-session">
+<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td> Create Task</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-task">
+<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371580/create-task_xemaxc.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>Sessions</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
+<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>Tribes</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/tribes">
+<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/all-tribes_j7y4jp.png"/>
+</a>
+</td>
+</tr>
 </table>
 </td>
 </tr>
-
 </table>
 
 <p align='center'>
 
-<a href="https://accountability-tribe.vercel.app/create-session">
-<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
-</a>
-<a href="https://accountability-tribe.vercel.app/create-task">
-<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371580/create-task_xemaxc.png"/>
-</a>
-<a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
-<img width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
-</a>
-<a href="https://accountability-tribe.vercel.app/tribes">
-<img  width="350px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/all-tribes_j7y4jp.png"/>
-</a>
 </p>
 
 <!--
