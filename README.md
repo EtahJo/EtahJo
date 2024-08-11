@@ -29,7 +29,11 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <th>Light Mode</th>
 </tr>
 <tr>
-<td>HomePage Unauthenticated</td>
+<td>
+<a href='https://accountability-tribe.vercel.app/'>
+<button>HomePage Unauthenticated</button>
+</a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
