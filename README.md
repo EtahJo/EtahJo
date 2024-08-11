@@ -4,6 +4,14 @@
 
 I am a self-taught full-stack developer with several years of experience. I enjoy the process of thinking of technical solutions to real-life problems. The realisation of these solutions usually includes, breaking it down to small actionable steps and after deep reasearch, implemeting each step with the most suitable technologies available.
 
+<!-- Social media icons -->
+<p align="center">
+  <a href="https://www.youtube.com/@arrahetah2123"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/arrah-josephine-522879103/?msgControlName=view_message_button&msgConversationId=2-ZjFkN2RmZWEtZjRmNy00NTcxLWI2ZGItMjU1MTAzZTRiNDU0XzAxMg%3D%3D&msgOverlay=true"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 ## Most Recent Project
 
 <p align='left'>
