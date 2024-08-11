@@ -10,6 +10,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <a href="https://accountability-tribe.vercel.app/">
 <img src="./images/home-logged-out.png"/>
 </a>
+<a href="https://accountability-tribe.vercel.app/">
+<img src="./images/home-logged-in.png"/>
+</a>
 </p>
 
 <!--
