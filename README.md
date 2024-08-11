@@ -18,6 +18,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <a href="https://accountability-tribe.vercel.app/">
 <img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
 </a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://accountability-tribe.vercel.app/">
 <img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
 </a>
