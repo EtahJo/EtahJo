@@ -16,10 +16,10 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 
 <p align='left'>
 <a href="https://accountability-tribe.vercel.app/">
-<img  width="500px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
+<img  width="400px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
 </a>
 <a href="https://accountability-tribe.vercel.app/">
-<img  width="500px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
+<img  width="400px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
 </a>
 <a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
 <img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
