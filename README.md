@@ -18,9 +18,17 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <a href="https://accountability-tribe.vercel.app/">
 <img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
 </a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://accountability-tribe.vercel.app/">
 <img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
+</a>
+<a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
+<img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
+</a>
+<a href="https://accountability-tribe.vercel.app/create-task">
+<img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371580/create-task_xemaxc.png"/>
+</a>
+<a href="https://accountability-tribe.vercel.app/create-session">
+<img src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
 </a>
 </p>
 
