@@ -45,7 +45,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <td>Sign Up</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/auth/signup">
-<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371606/Screen_Shot_2024-08-11_at_09.28.05_kv8mdf.png"/>
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723406043/Screen_Shot_2024-08-11_at_20.53.13_aougkf.png"/>
 </a>
 </td>
 <td>
