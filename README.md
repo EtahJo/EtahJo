@@ -35,6 +35,24 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371569/home-logged-out_jbg8mp.png"/>
 </a>
 </td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723404940/Screen_Shot_2024-08-11_at_20.33.27_jtttpo.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>Sign Up</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371606/Screen_Shot_2024-08-11_at_09.28.05_kv8mdf.png"/>
+</a>
+</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723404975/Screen_Shot_2024-08-11_at_20.33.05_jv6wtc.png"/>
+</a>
+</td>
 </tr>
 <tr>
 <td>HomePage Authenticated</td>
@@ -53,12 +71,12 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <td>User Profile</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/user/Etah">
-<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371573/profile-page_srj4sx.png"/>
 </a>
 </td>
 <td>
 <a href="https://accountability-tribe.vercel.app/user/Etah">
-<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723403844/Screen_Shot_2024-08-11_at_20.06.35_dlfmi0.png"/>
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723405304/Screen_Shot_2024-08-11_at_20.41.19_ejecku.png"/>
 </a>
 </td>
 </tr>
