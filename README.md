@@ -43,12 +43,22 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
 </a>
 </td>
+<td>
+<a href="https://accountability-tribe.vercel.app/">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723403844/Screen_Shot_2024-08-11_at_20.06.35_dlfmi0.png"/>
+</a>
+</td>
 </tr>
 <tr>
 <td>Create Session</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/create-session">
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
+</a>
+</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-session">
+<img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723403835/Screen_Shot_2024-08-11_at_20.14.31_penwhy.png"/>
 </a>
 </td>
 </tr>
@@ -72,12 +82,22 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
 </a>
 </td>
+<td>
+<a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
+<img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723403838/Screen_Shot_2024-08-11_at_20.08.51_hc1ykb.png"/>
+</a>
+</td>
 </tr>
 <tr>
 <td>Tribes</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/tribes">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/all-tribes_j7y4jp.png"/>
+</a>
+</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/tribes">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723403832/Screen_Shot_2024-08-11_at_20.06.53_a0jstd.png"/>
 </a>
 </td>
 </tr>
