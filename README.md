@@ -24,7 +24,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <td>
 <table>
 <tr>
-<th>Name</th>
+<th>Page Name</th>
 <th>Image</th>
 </tr>
 <tr>
@@ -79,10 +79,6 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 </table>
-
-<p align='center'>
-
-</p>
 
 <!--
 **EtahJo/EtahJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
