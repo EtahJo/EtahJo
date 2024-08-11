@@ -12,7 +12,24 @@ I am a self-taught full-stack developer with several years of experience. I enjo
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-## Most Recent Project
+## Most Recent Projects
+
+<table>
+<tr>
+<th>Name</th>
+<th>Screenshots</th>
+</tr>
+<tr>
+<td>Accountability Tribe</td>
+<td>
+<tr>
+<th>Page Name</th>
+<th>Page Image</th>
+</tr>
+</td>
+</tr>
+
+</table>
 
 <p align='center'>
 <a href="https://accountability-tribe.vercel.app/">
