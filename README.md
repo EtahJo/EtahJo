@@ -44,13 +44,26 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <tr>
 <td>Sign Up</td>
 <td>
-<a href="https://accountability-tribe.vercel.app/">
+<a href="https://accountability-tribe.vercel.app/auth/signup">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371606/Screen_Shot_2024-08-11_at_09.28.05_kv8mdf.png"/>
 </a>
 </td>
 <td>
-<a href="https://accountability-tribe.vercel.app/">
+<a href="https://accountability-tribe.vercel.app/auth/signup">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723404975/Screen_Shot_2024-08-11_at_20.33.05_jv6wtc.png"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>Login</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/auth/login">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723405766/Screen_Shot_2024-08-11_at_20.48.40_j49zzd.png"/>
+</a>
+</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/auth/login">
+<img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723404937/Screen_Shot_2024-08-11_at_20.32.50_cq7kjd.png"/>
 </a>
 </td>
 </tr>
