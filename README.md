@@ -1,6 +1,4 @@
-# Josephine Etah Arrah
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Josephine+Etah+Arrah;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Josephine+Etah+Arrah;)](https://git.io/typing-svg)
 
 **`Full-stack Software Developer`**
 
