@@ -1,5 +1,7 @@
 # Josephine Etah Arrah
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Josephine+Etah+Arrah;Second+line+of+text)](https://git.io/typing-svg)
+
 **`Full-stack Software Developer`**
 
 I am a self-taught full-stack developer with several years of experience. I enjoy the process of thinking of technical solutions to real-life problems. The realisation of these solutions usually includes, breaking it down to small actionable steps and after deep reasearch, implemeting each step with the most suitable technologies available.
