@@ -290,16 +290,6 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#321](https://github.com/DenverCoder1/readme-typing-svg/pull/321) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#318](https://github.com/DenverCoder1/readme-typing-svg/issues/318) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#318](https://github.com/DenverCoder1/readme-typing-svg/issues/318) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Closed issue [#29](https://github.com/DenverCoder1/doxygen-github-pages-action/issues/29) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-5. 🎉 Merged PR [#30](https://github.com/DenverCoder1/doxygen-github-pages-action/pull/30) in [DenverCoder1/doxygen-github-pages-action](https://github.com/DenverCoder1/doxygen-github-pages-action)
-<!--END_SECTION:activity-->
-
 </details>
 
 <!--
