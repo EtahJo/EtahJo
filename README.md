@@ -225,7 +225,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
        <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38bdf8.svg?logo=tailwind&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-f3f4f6logo=graphql&logoColor=f3f4f6"></a>
+      <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-171e26logo=graphql&logoColor=e10098"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
