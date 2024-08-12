@@ -32,9 +32,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <td>
 
 <button type='button'>
-<a href='https://accountability-tribe.vercel.app/'>
-HomePage Unauthenticated
-</a>
+<a href="https://accountability-tribe.vercel.app/"><img alt="UnAuthenticated HomePage" title="HomePage" src="https://custom-icon-badges.demolab.com/badge/-Unauthenticated%20HomePage-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </button>
 
 </td>
