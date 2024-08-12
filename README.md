@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Josephine+Etah+Arrah;)](https://git.io/typing-svg)
+<p align='center'>
+<a href='https://github.com/EtahJo'>
+<img src='https://readme-typing-svg.demolab.com/?lines=Josephine+Etah+Arrah&color=B87333' alt='EtahJo'/>
+</a>
+</p>
 
 **`Full-stack Software Developer`**
 
