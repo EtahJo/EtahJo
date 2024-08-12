@@ -30,11 +30,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </tr>
 <tr>
 <td>
-
-<button type='button'>
 <a href="https://accountability-tribe.vercel.app/"><img alt="UnAuthenticated HomePage" title="HomePage" src="https://custom-icon-badges.demolab.com/badge/-Unauthenticated%20HomePage-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
-</button>
-
 </td>
 <td>
 <a href="https://accountability-tribe.vercel.app/">
@@ -48,7 +44,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Sign Up</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/auth/signup"><img alt="Sign Up" title="Signup" src="https://custom-icon-badges.demolab.com/badge/-Sign%20Up-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/auth/signup">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723406043/Screen_Shot_2024-08-11_at_20.53.13_aougkf.png"/>
@@ -61,7 +59,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Login</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/auth/login"><img alt="Login" title="Login" src="https://custom-icon-badges.demolab.com/badge/-Login-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/auth/login">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723405766/Screen_Shot_2024-08-11_at_20.48.40_j49zzd.png"/>
@@ -74,7 +74,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>HomePage Authenticated</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/"><img alt="Authenticated HomePage" title="HomePage" src="https://custom-icon-badges.demolab.com/badge/-Authenticated%20HomePage-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371596/home-logged-in_k3v4tq.png"/>
@@ -87,7 +89,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>User Profile</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/user/Etah"><img alt="User Profile" title="User Profile" src="https://custom-icon-badges.demolab.com/badge/-User%20Profile-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/user/Etah">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371573/profile-page_srj4sx.png"/>
@@ -100,7 +104,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Create Session</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-session"><img alt="Create Session" title="Create Session" src="https://custom-icon-badges.demolab.com/badge/-Create%20Session-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/create-session">
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-session_xzomia.png"/>
@@ -113,7 +119,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Create Tribe</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-tribe"><img alt="Create Tribe" title="Create Tribe" src="https://custom-icon-badges.demolab.com/badge/-Create%20Tribe-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/create-tribe">
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/create-tribe_zsauzl.png"/>
@@ -126,7 +134,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td> Create Task</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/create-task"><img alt="Create Task" title="Create Task" src="https://custom-icon-badges.demolab.com/badge/-Create%20Task-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/create-task">
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371580/create-task_xemaxc.png"/>
@@ -139,7 +149,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Sessions</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended"><img alt="Sessions" title="Sessions" src="https://custom-icon-badges.demolab.com/badge/-Sessions-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/sessions?page=1&filter=ended">
 <img width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371588/all-sessions_k7raa2.png"/>
@@ -152,7 +164,9 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </td>
 </tr>
 <tr>
-<td>Tribes</td>
+<td>
+<a href="https://accountability-tribe.vercel.app/tribes"><img alt="Tribes" title="Tribes" src="https://custom-icon-badges.demolab.com/badge/-Tribes-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+</td>
 <td>
 <a href="https://accountability-tribe.vercel.app/tribes">
 <img  width="200px" src="https://res.cloudinary.com/dlgisfrgl/image/upload/v1723371577/all-tribes_j7y4jp.png"/>
