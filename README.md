@@ -30,7 +30,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </tr>
 <tr>
 <td align='center'>
-<a href="https://accountability-tribe.vercel.app/"><img width='300px' alt="UnAuthenticated HomePage" title="HomePage" src="https://custom-icon-badges.demolab.com/badge/-Unauthenticated%20HomePage-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+<a href="https://accountability-tribe.vercel.app/"><img width='200px' alt="UnAuthenticated HomePage" title="HomePage" src="https://custom-icon-badges.demolab.com/badge/-Unauthenticated%20HomePage-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
 </td>
 <td>
 <a href="https://accountability-tribe.vercel.app/">
@@ -45,7 +45,7 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 </tr>
 <tr>
 <td align='center'>
-<a href="https://accountability-tribe.vercel.app/auth/signup"><img alt="Sign Up" width='300px'  title="Signup" src="https://custom-icon-badges.demolab.com/badge/-Sign%20Up-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
+<a href="https://accountability-tribe.vercel.app/auth/signup"><img alt="Sign Up" width='200px'  title="Signup" src="https://custom-icon-badges.demolab.com/badge/-Sign%20Up-B87333?style=for-the-badge&logoColor=purple&logo=link-external"/></a>
 </td>
 <td>
 <a href="https://accountability-tribe.vercel.app/auth/signup">
