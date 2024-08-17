@@ -24,7 +24,11 @@ I am a self-taught full-stack developer with several years of experience. I enjo
 <th>Screenshots</th>
 </tr>
 <tr>
-<td>Accountability Tribe</td>
+<td>
+<a href='https://github.com/EtahJo/Accountability-tribe' title='Link to Repository'>
+Accountability Tribe
+</a>
+</td>
 <td>
 <table>
 <tr>
